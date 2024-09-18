@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/scararthur/Downloads/Matkul/mental-health-tracker/env"
+VIRTUAL_ENV="/Users/scararthur/Downloads/Matkul/mentalhealth-tracker/env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

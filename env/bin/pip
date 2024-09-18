@@ -1,4 +1,4 @@
-#!/Users/scararthur/Downloads/Matkul/mental-health-tracker/env/bin/python3.11
+#!/Users/scararthur/Downloads/Matkul/mentalhealth-tracker/env/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
